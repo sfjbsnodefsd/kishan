@@ -1,0 +1,14 @@
+{
+  "name": "test_app",
+  "version": "1.0.0",
+  "description": "this is the first nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kishan",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
